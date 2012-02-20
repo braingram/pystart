@@ -1,0 +1,5 @@
+A quick way to start python projects:
+
+pystart module foo # make a module named foo
+pystart script foo # make a script named foo
+pystart project foo # make an installable project named foo
